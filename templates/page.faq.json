@@ -1,0 +1,233 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_banner_YbxeH8": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_petC6L": {
+          "type": "heading",
+          "settings": {
+            "heading": "Frequently Asked Questions",
+            "heading_size": "hxl"
+          }
+        }
+      },
+      "block_order": [
+        "heading_petC6L"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/GettyImages-1439148183_1_5.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "faq_multi_collapsible_sections_YKeLMD": {
+      "type": "faq-multi-collapsible-sections",
+      "blocks": {
+        "custom_collapsible_row_mMb7V4": {
+          "type": "custom_collapsible_row",
+          "settings": {
+            "heading": "PRODUCTS",
+            "open_first_collapsible_row": false,
+            "icon": "none",
+            "heading_size": "h1",
+            "heading_alignment": "left",
+            "question_1": "WHICH SKIN TYPES ARE REVU PRODUCTS SUITABLE FOR?",
+            "answer_1": "<p>All revu products are developed in partnership with chemists. They are primarily formulated for SENSITIVE skin types, which means, as a result, they are suitable for all skin types ��. Full ingredient lists are available on each product page and for any concerns, we recommend conducting a patch test or sharing our ingredient list with your healthcare provider before usage.<\/p>",
+            "question_2": "WHICH SKIN TYPES ARE REVU PRODUCTS SUITABLE FOR?",
+            "answer_2": "<p>All revu products are developed in partnership with chemists. They are primarily formulated for SENSITIVE skin types, which means, as a result, they are suitable for all skin types ��. Full ingredient lists are available on each product page and for any concerns, we recommend conducting a patch test or sharing our ingredient list with your healthcare provider before usage.<\/p>",
+            "question_3": "ARE REVU SKINCARE PRODUCTS NUT FREE?",
+            "answer_3": "<p>All revu products are developed in partnership with chemists. They are primarily formulated for SENSITIVE skin types, which means, as a result, they are suitable for all skin types ��. Full ingredient lists are available on each product page and for any concerns, we recommend conducting a patch test or sharing our ingredient list with your healthcare provider before usage.<\/p>",
+            "question_4": "ARE ALL REVU SKINCARE PRODUCTS FRAGRANCE FREE?",
+            "answer_4": "<p>All revu products are developed in partnership with chemists. They are primarily formulated for SENSITIVE skin types, which means, as a result, they are suitable for all skin types ��. Full ingredient lists are available on each product page and for any concerns, we recommend conducting a patch test or sharing our ingredient list with your healthcare provider before usage.<\/p>",
+            "question_5": "ARE REVU SKINCARE PRODUCTS PREGNANCY SAFE?",
+            "answer_5": "<p>All revu products are developed in partnership with chemists. They are primarily formulated for SENSITIVE skin types, which means, as a result, they are suitable for all skin types ��. Full ingredient lists are available on each product page and for any concerns, we recommend conducting a patch test or sharing our ingredient list with your healthcare provider before usage.<\/p>",
+            "question_6": "ARE REVU SKINCARE PRODUCTS CLEAN?",
+            "answer_6": "<p>All revu products are developed in partnership with chemists. They are primarily formulated for SENSITIVE skin types, which means, as a result, they are suitable for all skin types ��. Full ingredient lists are available on each product page and for any concerns, we recommend conducting a patch test or sharing our ingredient list with your healthcare provider before usage.<\/p>",
+            "question_7": "ARE REVU SKINCARE PRODUCTS PARABEN- AND SULFATE-FREE?",
+            "answer_7": "<p>All revu products are developed in partnership with chemists. They are primarily formulated for SENSITIVE skin types, which means, as a result, they are suitable for all skin types ��. Full ingredient lists are available on each product page and for any concerns, we recommend conducting a patch test or sharing our ingredient list with your healthcare provider before usage.<\/p>",
+            "question_8": "WHAT IF A REVU PRODUCT DOESN'T WORK FOR ME?",
+            "answer_8": "<p>All revu products are developed in partnership with chemists. They are primarily formulated for SENSITIVE skin types, which means, as a result, they are suitable for all skin types ��. Full ingredient lists are available on each product page and for any concerns, we recommend conducting a patch test or sharing our ingredient list with your healthcare provider before usage.<\/p>",
+            "question_9": "DO YOU OFFER A RECYCLING PROGRAM OR INCENTIVE?",
+            "answer_9": "<p>All revu products are developed in partnership with chemists. They are primarily formulated for SENSITIVE skin types, which means, as a result, they are suitable for all skin types ��. Full ingredient lists are available on each product page and for any concerns, we recommend conducting a patch test or sharing our ingredient list with your healthcare provider before usage.<\/p>",
+            "question_10": "",
+            "answer_10": ""
+          }
+        },
+        "custom_collapsible_row_fRATjj": {
+          "type": "custom_collapsible_row",
+          "settings": {
+            "heading": "SHIPPING",
+            "open_first_collapsible_row": false,
+            "icon": "none",
+            "heading_size": "h1",
+            "heading_alignment": "left",
+            "question_1": "HOW LONG WILL MY ORDER TAKE TO ARRIVE?",
+            "answer_1": "",
+            "question_2": "HOW MUCH IS SHIPPING?",
+            "answer_2": "",
+            "question_3": "WHERE DO YOU SHIP?",
+            "answer_3": "",
+            "question_4": "DO YOU SHIP TO THE UNITED KINGDOM?",
+            "answer_4": "",
+            "question_5": "DO YOU SHIP TO EUROPE?",
+            "answer_5": "",
+            "question_6": "DO YOU SHIP TO THE USA AND CANADA?",
+            "answer_6": "",
+            "question_7": "DO I NEED TO PAY FOR DUTIES OR TAXES?",
+            "answer_7": "",
+            "question_8": "DO YOU SHIP INTERNATIONALLY?",
+            "answer_8": "",
+            "question_9": "WHERE CAN I BUY REVU IN PERSON?",
+            "answer_9": "",
+            "question_10": "HOW DO I CHANGE THE SHIPPING ADDRESS ON MY ORDER?",
+            "answer_10": ""
+          }
+        },
+        "custom_collapsible_row_zTMGrN": {
+          "type": "custom_collapsible_row",
+          "settings": {
+            "heading": "ORDERS AND PAYMENT",
+            "open_first_collapsible_row": false,
+            "icon": "none",
+            "heading_size": "h1",
+            "heading_alignment": "left",
+            "question_1": "HOW CAN I CHECK MY ORDER?",
+            "answer_1": "",
+            "question_2": "WHAT IS YOUR RETURN POLICY?",
+            "answer_2": "",
+            "question_3": "WHICH PAYMENT METHODS DO YOU ACCEPT?",
+            "answer_3": "",
+            "question_4": "WHEN WILL MY CREDIT CARD BE CHARGED?",
+            "answer_4": "",
+            "question_5": "CAN I REMOVE A SAVED PAYMENT METHOD?",
+            "answer_5": "",
+            "question_6": "I CAN'T LOGIN\/FORGOT MY PASSWORD!",
+            "answer_6": "",
+            "question_7": "WHY WAS MY ORDER CANCELLED?",
+            "answer_7": "",
+            "question_8": "",
+            "answer_8": "",
+            "question_9": "",
+            "answer_9": "",
+            "question_10": "",
+            "answer_10": ""
+          }
+        },
+        "custom_collapsible_row_dBHA3P": {
+          "type": "custom_collapsible_row",
+          "settings": {
+            "heading": "RETURNS AND REFUNDS",
+            "open_first_collapsible_row": false,
+            "icon": "none",
+            "heading_size": "h1",
+            "heading_alignment": "left",
+            "question_1": "WHAT IS YOUR RETURN POLICY?",
+            "answer_1": "",
+            "question_2": "DO YOU OFFER INTERNATIONAL RETURNS?",
+            "answer_2": "",
+            "question_3": "CAN I CANCEL OR CHANGE AN ORDER?",
+            "answer_3": "",
+            "question_4": "",
+            "answer_4": "",
+            "question_5": "",
+            "answer_5": "",
+            "question_6": "",
+            "answer_6": "",
+            "question_7": "",
+            "answer_7": "",
+            "question_8": "",
+            "answer_8": "",
+            "question_9": "",
+            "answer_9": "",
+            "question_10": "",
+            "answer_10": ""
+          }
+        },
+        "custom_collapsible_row_8mPp7K": {
+          "type": "custom_collapsible_row",
+          "settings": {
+            "heading": "CONTACT US",
+            "open_first_collapsible_row": false,
+            "icon": "none",
+            "heading_size": "h1",
+            "heading_alignment": "left",
+            "question_1": "HOW CAN I CONTACT THE REVU TEAM?",
+            "answer_1": "",
+            "question_2": "",
+            "answer_2": "",
+            "question_3": "",
+            "answer_3": "",
+            "question_4": "",
+            "answer_4": "",
+            "question_5": "",
+            "answer_5": "",
+            "question_6": "",
+            "answer_6": "",
+            "question_7": "",
+            "answer_7": "",
+            "question_8": "",
+            "answer_8": "",
+            "question_9": "",
+            "answer_9": "",
+            "question_10": "",
+            "answer_10": ""
+          }
+        }
+      },
+      "block_order": [
+        "custom_collapsible_row_mMb7V4",
+        "custom_collapsible_row_fRATjj",
+        "custom_collapsible_row_zTMGrN",
+        "custom_collapsible_row_dBHA3P",
+        "custom_collapsible_row_8mPp7K"
+      ],
+      "custom_css": [
+        ".accordion__content {overflow: hidden; padding: 0;}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-02e2daed-b188-441e-aef4-5eb000895408",
+        "container_color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_banner_PjXiff": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/New_Project.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_banner_YbxeH8",
+    "faq_multi_collapsible_sections_YKeLMD",
+    "image_banner_PjXiff"
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_banner_YLan6R": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_7ywd8K": {
+          "type": "heading",
+          "settings": {
+            "heading": "A CALMER approach to SKIN care",
+            "heading_size": "hxxl"
+          }
+        },
+        "buttons_f3xNVp": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "SHOP NOW",
+            "button_link_1": "shopify:\/\/collections",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_7ywd8K",
+        "buttons_f3xNVp"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/GettyImages-1439148183_1_8.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "bottom-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "image_banner_qiPhQw": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_FzWMe6": {
+          "type": "heading",
+          "settings": {
+            "heading": "A NOTE FROM OUR FOUNDER",
+            "heading_size": "hxl"
+          }
+        },
+        "text_pretQG": {
+          "type": "text",
+          "settings": {
+            "text": "\"My journey to create Revu began with a personal challenge - finding a skincare solution that was both calming and effective for irritated skin, without the compromise of harmful ingredients. This quest wasn't just about a product; it was about creating a sanctuary for those, like me, who needed to give their skin a gentle, restorative break. Revu is the embodiment of this mission, born from a need to nurture and heal, offering a haven of care for your skin.\"",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_FzWMe6",
+        "text_pretQG"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/New_Project_4.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "image_with_text_y4tgPB": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_fjWP7x": {
+          "type": "heading",
+          "settings": {
+            "heading": "power of a peaceful skin break",
+            "heading_size": "h0"
+          }
+        },
+        "text_QtdFQh": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Revu is a line of curated skincare essentials that provide your skin sanctuary where soothing meets healing. Formulated for sensitive skin types with gentle yet effective ingredients, Revu offers a range of products designed to calm and nurture irritated skin.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_fjWP7x",
+        "text_QtdFQh"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/GettyImages-1389993516_1_3.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "bottom",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "scheme-3",
+        "image_behavior": "zoom-in",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_banner_rkpYRT": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_VE37Fa": {
+          "type": "heading",
+          "settings": {
+            "heading": "PURE, efficacious, and CALMING",
+            "heading_size": "hxl"
+          }
+        }
+      },
+      "block_order": [
+        "heading_VE37Fa"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/GettyImages-1439148183_1_9.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "featured_collection_br9HKM": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all-product",
+        "products_to_show": 3,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_banner_KmD8LD": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/unnamed.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_banner_YLan6R",
+    "image_banner_qiPhQw",
+    "image_with_text_y4tgPB",
+    "image_banner_rkpYRT",
+    "featured_collection_br9HKM",
+    "image_banner_KmD8LD"
+  ]
+}

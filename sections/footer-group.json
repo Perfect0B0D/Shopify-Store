@@ -1,0 +1,78 @@
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "text_CiiMNh": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "subtext": "<p>Join La SKINCARE revolution. Keep it calm, keep it soothed. Eeekk<\/p><p>Keep your inbox calm with tips, tricks & exclusive content from Revu.<\/p>",
+            "show_email_subscribe": true,
+            "show_payment_icon": false,
+            "show_bottom_text": true,
+            "bottom_text": "By signing up, you agree to our <a href=\"https:\/\/www.revuskin.com\/pages\/privacy-policy\"><span style=\"text-decoration:underline\">Privacy Policy*<\/span><\/a>."
+          }
+        },
+        "link_list_N8hAEW": {
+          "type": "link_list",
+          "settings": {
+            "heading": "NVIGATE",
+            "menu": "navigate"
+          }
+        },
+        "link_list_7PwJBK": {
+          "type": "link_list",
+          "settings": {
+            "heading": "SOCIAL",
+            "menu": "social"
+          }
+        },
+        "link_list_i6DAFC": {
+          "type": "link_list",
+          "settings": {
+            "heading": "OFFICIAL",
+            "menu": "official"
+          }
+        },
+        "text_TqfGzM": {
+          "type": "text",
+          "settings": {
+            "heading": "SUPPORT",
+            "subtext": "<p>We’re here M-F 9am - 5pm <\/p><p>Drop us a note anytime:<\/p><p><a href=\"mailto:hello@revuskin.com\"><span style=\"text-decoration:underline\">hello@revuskin.com<\/span><\/a><\/p><p><\/p><p><a href=\"https:\/\/www.revuskin.com\/cookie-policy\"><span style=\"text-decoration:underline\">Cookie Preferences<\/span><\/a><\/p><p><\/p><p>© rêvu 2024<\/p>",
+            "show_email_subscribe": false,
+            "show_payment_icon": true,
+            "show_bottom_text": false,
+            "bottom_text": "Bottom"
+          }
+        }
+      },
+      "block_order": [
+        "text_CiiMNh",
+        "link_list_N8hAEW",
+        "link_list_7PwJBK",
+        "link_list_i6DAFC",
+        "text_TqfGzM"
+      ],
+      "settings": {
+        "color_scheme": "scheme-3",
+        "newsletter_enable": false,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": true,
+        "show_social": false,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "payment_enable": false,
+        "show_policy": true,
+        "margin_top": 0,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}

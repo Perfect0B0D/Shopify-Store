@@ -1,0 +1,417 @@
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Calm. Soothe. Heal. Restore",
+            "heading_size": "hxxl"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "SOOTHE ME HAPPY",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/GettyImages-1439148183.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "bottom-left",
+        "show_text_box": false,
+        "desktop_content_alignment": "left",
+        "color_scheme": "scheme-3",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 8,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_eAPzkP": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_897qx7": {
+          "type": "heading",
+          "settings": {
+            "heading": "CALM your SKIN care routine.",
+            "heading_size": "hxxl"
+          }
+        },
+        "button_Q7bAjN": {
+          "type": "button",
+          "settings": {
+            "button_label": "GET LA ROUTINE",
+            "button_link": "",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_897qx7",
+        "button_Q7bAjN"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "bottom",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-1",
+        "color_scheme": "scheme-2",
+        "image_behavior": "zoom-in",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_EWpjyU": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_tAQdRz": {
+          "type": "heading",
+          "settings": {
+            "heading": "no nasties, no irritants, just calm new skin",
+            "heading_size": "h0"
+          }
+        },
+        "text_CGWm7G": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Revu is a haven of gentle, restorative skincare essentials. Our products, born from a vision of purity and care, are a testament to health and authenticity. Embark on a journey of self-love and skin kindness with us.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_EKrhmy": {
+          "type": "button",
+          "settings": {
+            "button_label": "TELL ME MORE",
+            "button_link": "",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_tAQdRz",
+        "text_CGWm7G",
+        "button_EKrhmy"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "bottom",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "scheme-3",
+        "image_behavior": "zoom-in",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_banner_HRcPEi": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_hJcfbE": {
+          "type": "heading",
+          "settings": {
+            "heading": "pure formulation",
+            "heading_size": "hxxl"
+          }
+        },
+        "text_NFHBhe": {
+          "type": "text",
+          "settings": {
+            "text": "We take pride in our meticulously crafted formulas that set the standard for calm skincare. Each product is a symphony of the finest ingredients, thoughtfully chosen and blended to perfection. Our commitment to purity and efficacy results in skincare that not only looks and feels luxurious but also delivers remarkable results.",
+            "text_style": "body"
+          }
+        },
+        "text_W6zBCX": {
+          "type": "text",
+          "settings": {
+            "text": "<strong>alcohol-free (👾) ● fragrance-free (👾) ● gluten-free cruelty-free  ● vegan ● non-comedogenic<\/strong>",
+            "text_style": "body"
+          }
+        },
+        "buttons_MPXKyB": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "DELVE DEEPER",
+            "button_link_1": "",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_hJcfbE",
+        "text_NFHBhe",
+        "text_W6zBCX",
+        "buttons_MPXKyB"
+      ],
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "image_with_text_9PbAND": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_6iP8f7": {
+          "type": "heading",
+          "settings": {
+            "heading": "good ingredients",
+            "heading_size": "h0"
+          }
+        },
+        "text_rNWL7j": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our dedication to 'No Nasties, No Irritants' means we carefully select each ingredient, ensuring they are free from harsh chemicals and unnecessary additives. Our focus is on harnessing the power of simple, yet effective elements that are kind to your skin. This commitment means you can trust our skincare to be gentle, safe, and nurturing.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_tLc6NA": {
+          "type": "button",
+          "settings": {
+            "button_label": "SOOTHE ME",
+            "button_link": "",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_6iP8f7",
+        "text_rNWL7j",
+        "button_tLc6NA"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "bottom",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "scheme-3",
+        "image_behavior": "zoom-in",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_dUKNf3": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_XXRYEE": {
+          "type": "text",
+          "settings": {
+            "text": "<p>La CALM<\/p>",
+            "text_style": "body"
+          }
+        },
+        "heading_XiyUMP": {
+          "type": "heading",
+          "settings": {
+            "heading": "The essential calming step in La Routine",
+            "heading_size": "hxxl"
+          }
+        },
+        "button_FYmcVx": {
+          "type": "button",
+          "settings": {
+            "button_label": "HUMECT YOUR FACE",
+            "button_link": "",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "text_XXRYEE",
+        "heading_XiyUMP",
+        "button_FYmcVx"
+      ],
+      "custom_css": [
+        ".image-with-text__content {padding: 6rem 10rem 5rem 6rem;}"
+      ],
+      "settings": {
+        "height": "large",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "bottom",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "scheme-2",
+        "image_behavior": "zoom-in",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_pAWdkt": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_8djHbB": {
+          "type": "heading",
+          "settings": {
+            "heading": "nipple care is skincare",
+            "heading_size": "hxxl"
+          }
+        },
+        "text_i3LNqL": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Nurture and protect overall skin health. Nourish and soothe dry nipples and cracked lips with out butter treatment.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_EJ6KiB": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP La NIPPLE",
+            "button_link": "",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_8djHbB",
+        "text_i3LNqL",
+        "button_EJ6KiB"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "large",
+        "layout": "image_first",
+        "desktop_content_position": "bottom",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "scheme-3",
+        "image_behavior": "zoom-in",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_Jbizgf": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_Ln8xCJ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Essentials for a hamster day",
+            "heading_size": "hxxl"
+          }
+        },
+        "button_gXfKRp": {
+          "type": "button",
+          "settings": {
+            "button_label": "La TREAT",
+            "button_link": "",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_Ln8xCJ",
+        "button_gXfKRp"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "bottom",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-1",
+        "color_scheme": "scheme-2",
+        "image_behavior": "zoom-in",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_banner_CjaVBE": {
+      "type": "image-banner",
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "featured_collection",
+    "image_with_text_eAPzkP",
+    "image_with_text_EWpjyU",
+    "image_banner_HRcPEi",
+    "image_with_text_9PbAND",
+    "image_with_text_dUKNf3",
+    "image_with_text_pAWdkt",
+    "image_with_text_Jbizgf",
+    "image_banner_CjaVBE"
+  ]
+}

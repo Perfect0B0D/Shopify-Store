@@ -1,0 +1,270 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_with_text_9D7gNf": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_rcFF9m": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>give care by skincare <\/strong>",
+            "heading_size": "h0"
+          }
+        },
+        "text_bmqrPk": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Revu’s 'Give Care' program reflects our deep commitment to making a positive impact beyond skincare. Understanding the profound challenges of body dysmorphia, we pledge to donate 1% of our revenues to support the organisations that support women and men grappling with this condition. This initiative is more than a contribution; it's a part of our ethos to extend care and compassion to those in need.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_rcFF9m",
+        "text_bmqrPk"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/GettyImages-1389993516_1_2.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "bottom",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "scheme-2",
+        "image_behavior": "zoom-in",
+        "mobile_content_alignment": "center",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_gGnB8U": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_b9C7km": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/New_Project_3.png",
+            "title": "embracing every self",
+            "text": "<p>At Revu, we believe in celebrating and supporting every individual's journey towards self-love and acceptance, affirming that true beauty lies in embracing one's authentic self.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_tCfnyw": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/New_Project_3.png",
+            "title": "strength in vulnerability",
+            "text": "<p>We hold the conviction that acknowledging and sharing our vulnerabilities is a powerful step towards healing. Our commitment extends beyond skincare, supporting mental wellness and resilience in the face of body dysmorphia.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_ye4iNb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/New_Project_3.png",
+            "title": "unity in diversity ",
+            "text": "<p>Revu is built on the principle that diversity is our strength. We stand in solidarity with all those navigating body dysmorphia, advocating for a world where everyone feels seen, valued, and empowered in their unique beauty.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_b9C7km",
+        "column_tCfnyw",
+        "column_ye4iNb"
+      ],
+      "settings": {
+        "title": "our beliefs",
+        "heading_size": "hxl",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_Nw98mJ": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_HhVNVp": {
+          "type": "heading",
+          "settings": {
+            "heading": "for raising awareness",
+            "heading_size": "h0"
+          }
+        },
+        "text_3JJrdp": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Dedicated to relieving the suffering of people with Body Dysmorphic Disorder (BDD), advancing research, treatments, and awareness of the condition. They provide a variety of support options, including online and local support groups, resources, and information on treatment and coping strategies​<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_yGUqNY": {
+          "type": "button",
+          "settings": {
+            "button_label": "MORE ABOUT BDDF",
+            "button_link": "",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_HhVNVp",
+        "text_3JJrdp",
+        "button_yGUqNY"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Picture9.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "bottom",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "scheme-3",
+        "image_behavior": "zoom-in",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_wb7Dwp": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_efwLdF": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/New_Project_3.png",
+            "title": "funding and partnership",
+            "text": "<p>Our partnerships go beyond financial support, involving collaborative efforts for awareness campaigns, educational workshops, and resource development.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_e6LciF": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/New_Project_3.png",
+            "title": "education and awareness",
+            "text": "<p>Develop and distribute educational materials that provide information about body dysmorphia, focusing on recognition, understanding, and ways to seek help.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_c6pcR7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/New_Project_3.png",
+            "title": "product and campaign messaging",
+            "text": "<p>Tailoring our product messaging and marketing campaigns to promote body positivity and self-acceptance.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_efwLdF",
+        "column_e6LciF",
+        "column_c6pcR7"
+      ],
+      "settings": {
+        "title": "our pillars",
+        "heading_size": "hxl",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_banner_4KKxwU": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_A9BqgW": {
+          "type": "heading",
+          "settings": {
+            "heading": "THANK YOU FOR CARING",
+            "heading_size": "hxl"
+          }
+        },
+        "text_Tp7Kca": {
+          "type": "text",
+          "settings": {
+            "text": "It’s only because of our Revu community's care, that we can use our platform to support and make an impact on communities and organisation we are passionate about.",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_A9BqgW",
+        "text_Tp7Kca"
+      ],
+      "settings": {
+        "image_2": "shopify:\/\/shop_images\/Picture14.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "image_banner_a6raMX": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/unnamed.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_9D7gNf",
+    "multicolumn_gGnB8U",
+    "image_with_text_Nw98mJ",
+    "multicolumn_wb7Dwp",
+    "image_banner_4KKxwU",
+    "image_banner_a6raMX"
+  ]
+}

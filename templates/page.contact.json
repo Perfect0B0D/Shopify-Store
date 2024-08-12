@@ -1,0 +1,241 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_WBdBDb": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_BjDR4Q": {
+          "type": "heading",
+          "settings": {
+            "heading": "Contact Us",
+            "heading_size": "hxl"
+          }
+        },
+        "text_HihtJ6": {
+          "type": "text",
+          "settings": {
+            "text": "Check out our FAQ Page for information on shipping lead times, countries we ship to, our return policy and navigating our site.",
+            "text_style": "subtitle"
+          }
+        },
+        "buttons_jc8Qix": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "FAQS",
+            "button_link_1": "",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_BjDR4Q",
+        "text_HihtJ6",
+        "buttons_jc8Qix"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/GettyImages-1439148183_1_5.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "multicolumn_q6RmJJ": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_TVDnQp": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/New_Project_3.png",
+            "title": "customer service",
+            "text": "<p>Our customer service team is available via email Monday-Friday, 10AM-5PM GMT excluding holidays<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_qehxwC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/New_Project_3.png",
+            "title": "how to contact",
+            "text": "<p>🗣️ Chat with us at the bottom of this page; or <\/p><p>📧 send us an email at hello@revuskin.com; or<\/p><p>⌨️ DM us on Instagram @revu.skin<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_TVDnQp",
+        "column_qehxwC"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h0",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_banner_MwXeGP": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_bTkbfU": {
+          "type": "heading",
+          "settings": {
+            "heading": "influencer",
+            "heading_size": "hxl"
+          }
+        },
+        "text_xrnac3": {
+          "type": "text",
+          "settings": {
+            "text": "Revu, A CALMER approach to SKIN care. Our mission is simple: To HELP people CALM and HEAL their skin, in turn building their confidence so they can be their real selves, We are looking for creators to support our influencer affiliate program!",
+            "text_style": "body"
+          }
+        },
+        "text_LbftqV": {
+          "type": "text",
+          "settings": {
+            "text": "If you are interested in joining, click on the button bellow to apply",
+            "text_style": "body"
+          }
+        },
+        "buttons_t6qQqm": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "JOIN LA PROGRAM",
+            "button_link_1": "",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_bTkbfU",
+        "text_xrnac3",
+        "text_LbftqV",
+        "buttons_t6qQqm"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/GettyImages-1439148183_1_6.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "multicolumn_AGrbtU": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_4wQG8E": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/New_Project_3.png",
+            "title": "media \/ press",
+            "text": "<p>👉 press@revuskin.com<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_g3xP8h": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/New_Project_3.png",
+            "title": "wholesale\/distribution",
+            "text": "<p>👉 sales@revuskin.com<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_YfcAVx": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/New_Project_3.png",
+            "title": "talent",
+            "text": "<p>We're always hiring talent. <\/p><p>For employment opportunities, <\/p><p>please reach out to <\/p><p>👉 careers@revuskin.com<\/p><p>with a CV and cover letter.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_4wQG8E",
+        "column_g3xP8h",
+        "column_YfcAVx"
+      ],
+      "settings": {
+        "title": "Other Inquiries",
+        "heading_size": "hxl",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_banner_4mn8Cf": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/unnamed.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_banner_WBdBDb",
+    "multicolumn_q6RmJJ",
+    "image_banner_MwXeGP",
+    "multicolumn_AGrbtU",
+    "image_banner_4mn8Cf"
+  ]
+}

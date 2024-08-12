@@ -1,0 +1,236 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_banner_RFNmWC": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_QTTn9f": {
+          "type": "heading",
+          "settings": {
+            "heading": "CALM for the skin, CARE for the planet",
+            "heading_size": "hxl"
+          }
+        }
+      },
+      "block_order": [
+        "heading_QTTn9f"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/GettyImages-1439148183_1_2.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "image_with_text_kFGYRm": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_BWfmbj": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our commitment to EARTH-FRIENDLY skincare",
+            "heading_size": "h0"
+          }
+        },
+        "text_rrTB6K": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Laval is deeply committed to sustainability, focusing on eco-conscious ingredient sourcing and eco-friendly packaging. At Laval, caring for the planet is integral to our ethos, ensuring that our beauty practices contribute positively to the world<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_BWfmbj",
+        "text_rrTB6K"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/GettyImages-1355079013_1_1.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "bottom",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "scheme-2",
+        "image_behavior": "zoom-in",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_banner_JU3MGz": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_wzV6HT": {
+          "type": "heading",
+          "settings": {
+            "heading": "SOOTHING and HEALING the FACE and the PLANET",
+            "heading_size": "hxl"
+          }
+        }
+      },
+      "block_order": [
+        "heading_wzV6HT"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/GettyImages-1439148183_1_3.png",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "image_with_text_DAwAWL": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_apiwRD": {
+          "type": "heading",
+          "settings": {
+            "heading": "Striving to balance SKINCARE, PEOPLE and the PLANET",
+            "heading_size": "h0"
+          }
+        },
+        "text_XzfBrj": {
+          "type": "text",
+          "settings": {
+            "text": "<p>B Crop Certification represents our commitment to not just profit, but also to people and the planet. It's a rigorous certification assessing our company's social and environmental performance, transparency, and accountability. We are dedicated to positive impact in every area of our business, from our supply chain to our community engagement, ensuring our operations benefit both society and the environment.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_apiwRD",
+        "text_XzfBrj"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_1.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "bottom",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "scheme-2",
+        "image_behavior": "zoom-in",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_y6fCaU": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_z7VHBJ": {
+          "type": "heading",
+          "settings": {
+            "heading": "our boxes keep on giving",
+            "heading_size": "hxl"
+          }
+        },
+        "text_BeE3mz": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Your new Revu products will arrive in FSC-certified postage boxes, ensuring a sustainable and eco-friendly delivery. Here's why our packaging is a greener choice:<\/p><p>✅ FSC-certified materials ensure responsible forest management<\/p><p>✅ No bubble wrap, no excess waste<\/p><p>✅ Any inserts are made from recycled paper or FSC-certified materials<\/p><p>✅ The box can be used to return your empties for a discount on future orders<\/p><p>By choosing Revu, you're supporting a cleaner, more sustainable way to receive your skincare essentials.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_z7VHBJ",
+        "text_BeE3mz"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/GettyImages-1389993516_1_1.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "scheme-2",
+        "image_behavior": "zoom-in",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_banner_LyBEEC": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_nfniPF": {
+          "type": "heading",
+          "settings": {
+            "heading": "CALM your face, CARE about waste",
+            "heading_size": "hxl"
+          }
+        }
+      },
+      "block_order": [
+        "heading_nfniPF"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/GettyImages-1439148183_1_4.png",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "image_banner_zWULME": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/unnamed.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_banner_RFNmWC",
+    "image_with_text_kFGYRm",
+    "image_banner_JU3MGz",
+    "image_with_text_DAwAWL",
+    "image_with_text_y6fCaU",
+    "image_banner_LyBEEC",
+    "image_banner_zWULME"
+  ]
+}
